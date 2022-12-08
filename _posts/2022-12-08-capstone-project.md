@@ -36,8 +36,8 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 
 
 
-<br>
-<br>
+##Develop Log
+---
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
