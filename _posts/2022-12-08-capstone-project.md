@@ -11,14 +11,11 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 ---
 ### Pose Estimation Applications
 * **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
-![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
 
 * **[AI健身教練](https://fc.bnext.com.tw/articles/view/1226)**<br>
-健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
-![](https://bnextmedia.s3.hicloud.net.tw/image/album/2021-03/img-1614856341-69773@600.jpg)
+
 
 * **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
-![](https://inside-assets1.inside.com.tw/2020/11/oz0fu9mal72kdptfhnq8v79sf67c57.png?w=730&fit=max&q=80)
 
 * **[Pose-controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)**<br>
 ![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif?raw=True)
