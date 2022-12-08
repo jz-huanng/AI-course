@@ -36,47 +36,6 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 * **[其他應用](https://www.eastwestidea.net/index.php/%E6%9D%90%E6%96%99/item/376)**<br>
 
 ---
-## Body Pose
-**Ref.** [A 2019 Guide to Huamn Pose Estimatioin](https://heartbeat.comet.ml/a-2019-guide-to-human-pose-estimation-c10b79b64b73#7c7f)<br>
-
-### BodyPix - Person Segmentation in the Browser
-**Code:** [tfjs-models/body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)<br>
-`pip install tf_bodypix`
-[Live Demo](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html)
-
-![](https://github.com/tensorflow/tfjs-models/raw/master/body-pix/images/body-pix-2.0.gif)<br>
----
-### OpenPose
-**Paper:** [arxiv.org/abs/1812.08008](https://arxiv.org/abs/1812.08008)<br>
-**Code:** [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)<br>
-**Ref.** [A Guide to OpenPose in 2021](https://viso.ai/deep-learning/openpose/)<br>
-
-![](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/.github/media/pose_face_hands.gif?raw=true)
-![](https://viso.ai/wp-content/uploads/2021/01/Keypoints-Detected-by-OpenPose-on-the-COCO-Dataset.jpg)
-![](https://media.arxiv-vanity.com/render-output/5509832/x2.png)
-<iframe width="960" height="540" src="https://www.youtube.com/embed/0XIm-NTnOYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-### PoseNet
-<font size="3">
-PoseNet is built to run on lightweight devices such as the browser or mobile device where as<br>
-OpenPose is much more accurate and meant to be ran on GPU powered systems. You can see the performance benchmarks below.<br>
-</font>
-**Paper:**  [arxiv.org/abs/1505.07427](https://arxiv.org/abs/1505.07427)<br>
-**Code:** [rwightman/posenet-pytorch](https://github.com/rwightman/posenet-pytorch)<br>
-
-![](https://debuggercafe.com/wp-content/uploads/2020/10/keypoint_exmp.jpg)
-![](https://www.researchgate.net/profile/Soroush-Seifi/publication/335989945/figure/fig2/AS:806499555233793@1569295886946/The-Posenet-architecture-Yellow-modules-are-shared-with-GoogleNet-while-green-modules.ppm)
-![](https://i1.wp.com/parleylabs.com/wp-content/uploads/2020/01/image-1.png?resize=1024%2C420&ssl=1)
-
----
-### Pose Recognition 
-*using Pose keypoints as dataset to train a DNN*<br>
-**Code:** [burningion/dab-and-tpose-controlled-lights](https://github.com/burningion/dab-and-tpose-controlled-lights)<br>
-**IPYNB:** [pose-control-lights](https://github.com/burningion/dab-and-tpose-controlled-lights/blob/master/Data%20Play.ipynb)<br>
-
-![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif)
-![](https://raw.githubusercontent.com/burningion/dab-and-tpose-controlled-lights/master/images/neural1.png)
 
 ---
 
