@@ -16,6 +16,9 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 
 ### 系統方塊圖
 
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/Stock_LSTM.png?raw=true)
+
+
 ### experiment
 
 <details>
