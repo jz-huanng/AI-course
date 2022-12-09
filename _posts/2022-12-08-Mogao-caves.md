@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Pose Estimation
-author: [Richard Kuo]
-category: [Lecture]
-tags: [jekyll, ai]
+title: Mogao Caves
+author: [Charles Huang]
+category: [Weibo]
+tags: [Cathay, Art]
 ---
 
-Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object Pose.
+Mogao Caves
 
 ---
+
+
+## 梵天飞下救睒子
+
+国王误射睒子后，领其盲父母到睒子遇害处，盲父母抚尸痛哭，呼天抢地。一梵天自天上降临，使其复活。 ​​​
+
+
+
 ### Pose Estimation Applications
 * **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
 ![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
