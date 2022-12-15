@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/rkuo2000/animes
 	
 
 ### RL-gym
-
+---
 pip install pyglet==1.5.27
 pip install stable_baselines3[extra]
 pip install gym[all]
@@ -56,7 +56,26 @@ A.L.E: Arcade Learning Environment (version 0.7.4+069f8bd)
 C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\stable_baselines3\common\save_util.py:166: UserWarning: Could not deserialize object lr_schedule. Consider using `custom_objects` argument to replace this object.
   warnings.warn(
 
+### facemet
+---
 
+[message]too many values to unpack (expected 2)<br>
+ 
+[reference]https://www.pythonpool.com/valueerror-too-many-values-to-unpack-expected-2-solved/
+ 
+[solution]<br>
+ 
+aligned = []
+names = []
+for x, y in loader:
+    x_aligned, prob ,*unpack= mtcnn(x, return_prob=True)
+       if x_aligned is not None:
+         #print('Face detected with probability: {:8f}'.format(prob))
+        aligned.append(x_aligned)
+        names.append(dataset.idx_to_class[y])
+
+print(len(aligned))
+print(names)
 
 	
 	
