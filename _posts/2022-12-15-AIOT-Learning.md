@@ -77,7 +77,13 @@ for x, y in loader:
 print(len(aligned))
 print(names)
 
-	
+
+### MMPose
+---
+
+鄭濬緯<br>
+<br>
+!pip install scipy==1.3.1
 	
 
 
