@@ -83,7 +83,7 @@ print(names)
 
 鄭濬緯<br>
 <br>
-!pip install scipy==1.3.1
+!pip install scipy==1.3.1<br>
 <br>
 rkuo2000<br>
 rkuo2000：我殺掉舊的, 重新按github的重新跑<br> 
