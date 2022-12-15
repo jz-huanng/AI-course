@@ -84,6 +84,11 @@ print(names)
 鄭濬緯<br>
 <br>
 !pip install scipy==1.3.1
+<br>
+rkuo2000<br>
+rkuo2000：我殺掉舊的, 重新按github的重新跑<br> 
+rkuo2000：應該是安裝問題 <br>
+rkuo2000：pip install -e . 就可以了<> 
 	
 
 
