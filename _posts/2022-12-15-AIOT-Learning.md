@@ -12,6 +12,56 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 
 
 
+## Lesson
+
+https://rkuo2000.github.io/AI-course/
+
+[lesson 4]2022-10-06-Image-Classification
+
+Transer Learning
+
+https://www.kaggle.com/datasets/rkuo2000/animes
+	
+
+### RL-gym
+
+pip install pyglet==1.5.27
+pip install stable_baselines3[extra]
+pip install gym[all]
+pip install autorom[accept-rom-license]
+git clone https://github.com/rkuo2000/RL-gym
+cd RL-gym
+
+pip install box2d-py 
+
+cd RL-gym
+cd sb3
+
+python train.py LunarLander-v2 640000
+python enjoy.py LunarLander-v2
+python enjoy_gif.py LunarLander-v2
+
+
+python train.py lunar_Lander-v2 640000
+
+python train.py LunarLander 640000
+
+AttributeError: module 'gym.envs.box2d' has no attribute 'LunarLander'
+
+raise error.UnregisteredEnv("No registered env with id: {}".format(id))
+gym.error.UnregisteredEnv: No registered env with id: lunar_Lander-v2
+
+A.L.E: Arcade Learning Environment (version 0.7.4+069f8bd)
+[Powered by Stella]
+C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\stable_baselines3\common\save_util.py:166: UserWarning: Could not deserialize object lr_schedule. Consider using `custom_objects` argument to replace this object.
+  warnings.warn(
+
+
+
+	
+	
+
+
 
 
 
