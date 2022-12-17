@@ -14,6 +14,15 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 []  Enviroment light<br>
 [x]  traffic congestion
 
+**bold**
+<br>
+>quote
+
+>quote
+>>and quote in quote
+
+`code here`
+
 
 ### Introduction
 
