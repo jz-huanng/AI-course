@@ -1,6 +1,6 @@
 ---
 layout: post
-title: capstone project
+title: AIOT-Learning
 author: [Charles Huang]
 category: [Lecture]
 tags: [jekyll, ai]
