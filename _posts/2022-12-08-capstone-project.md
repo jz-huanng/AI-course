@@ -15,6 +15,14 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 []  視力檢查<br>
 [x]  traffic congestion
 
+左右眼
+
+gesture
+
+distance
+
+formula
+
 facing problem:
 
 distance
