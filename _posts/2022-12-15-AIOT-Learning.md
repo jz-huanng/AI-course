@@ -12,7 +12,7 @@ Gibraltar as a girl where I was a Flower of the mountain yes when I put the rose
 
 
 
-#### mermaid
+### mermaid
 
 ``` mermaid ```
 
@@ -36,6 +36,19 @@ sequenceDiagram
     iframe->>dotcom: iframe ready
     dotcom->>iframe: set mermaid data on iframe
     iframe->>iframe: render mermaid
+```
+
+
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant John
+    links Alice: {"Dashboard": "https://dashboard.contoso.com/alice", "Wiki": "https://wiki.contoso.com/alice"}
+    links John: {"Dashboard": "https://dashboard.contoso.com/john", "Wiki": "https://wiki.contoso.com/john"}
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
 ```
 
 ```mermaid
@@ -62,6 +75,17 @@ sequenceDiagram
       B--NO-->D[How to use?]:::black;
       D---Views:::black-->F["echo CIMC_JS('randomcaptcha');\n echo CIMC_HTML(['captcha_name'=>'randomcaptcha']);"]:::black; 
       D---Controller:::black-->T["CIMC_RULE('archaptcha,recaptcha,bibot');"]:::black;
+```
+
+```mermaid
+flowchart LR;
+    A-->B;
+    B-->C;
+    C-->D;
+    click A callback "Tooltip for a callback"
+    click B "http://www.github.com" "This is a tooltip for a link"
+    click A call callback() "Tooltip for a callback"
+    click B href "http://www.github.com" "This is a tooltip for a link"
 ```
 
 ## Lesson
