@@ -88,6 +88,12 @@ flowchart LR;
     click B href "http://www.github.com" "This is a tooltip for a link"
 ```
 
+<details>
+    <summary>Toggle Switch</summary>
+    Foldable Content[enter image description here][1]
+</details>
+
+
 ## Lesson
 
 https://rkuo2000.github.io/AI-course/
