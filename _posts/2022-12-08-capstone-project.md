@@ -44,6 +44,10 @@ tags: [jekyll, ai]
 
 ### 辨識結果
 ---
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/batch1_label.png?raw=true)<br>
+
+### 成果演示
+---
 
 ### 參考資料
 ---
@@ -62,7 +66,7 @@ tags: [jekyll, ai]
 
 ### 系統方塊圖
 
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/Stock_LSTM.png?raw=true)
+
 
 
 
