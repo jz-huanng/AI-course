@@ -40,8 +40,8 @@ tags: [jekyll, ai]
 
 
 
-**bold**
 <br>
+
 >quote
 
 >quote
@@ -54,7 +54,7 @@ tags: [jekyll, ai]
 
 
 ### Pose Estimation Applications
-* **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
+* **[link](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
 
 
 
