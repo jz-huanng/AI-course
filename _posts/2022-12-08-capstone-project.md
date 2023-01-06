@@ -31,9 +31,11 @@ tags: [jekyll, ai]
 
 每一次框選都要**框住白色方框**，在依據是否停有車來選擇不同的標籤```empty``` 或 ```parked ```。有些照片中**機車並非出現在白色方框內不應該被標註出來**。<br>
 
-資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<
+資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)
 
-### 模型介紹 YOLOv5<br><br>
+### 模型介紹 using YOLOv5
+---
+<br><br>
 
 **程式碼的部分**
 
@@ -46,7 +48,8 @@ tags: [jekyll, ai]
 ### 參考資料
 ---
 
-
+[Image Anotation](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html
+)<br><br>
 
 
 <br>
