@@ -44,7 +44,8 @@ tags: [jekyll, ai]
 
 ### 辨識結果
 ---
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/batch1_label.png?raw=true)<br>
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/batch1_label.png?raw=true)
+<br>
 
 ### 成果演示
 ---
