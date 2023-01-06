@@ -48,7 +48,7 @@ tags: [jekyll, ai]
 ### 參考資料
 ---
 
-[Image Anotation](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html
+[Image Annotation](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html
 )<br><br>
 
 
@@ -63,11 +63,6 @@ tags: [jekyll, ai]
 ### 系統方塊圖
 
 ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/Stock_LSTM.png?raw=true)
-
-
-### Pose Estimation Applications
-* **[link](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
-
 
 
 
