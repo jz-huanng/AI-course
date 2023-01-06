@@ -47,6 +47,8 @@ tags: [jekyll, ai]
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/batch1_label.png?raw=true)
 <br>
 
+[kaggle連結](https://www.kaggle.com/ulysses1103/parked-detection)
+
 ### 成果演示
 ---
 
