@@ -51,6 +51,7 @@ tags: [jekyll, ai]
 
 ### 初次結果
 
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/bad_outcome.png?raw=true)
 
 ---
 
