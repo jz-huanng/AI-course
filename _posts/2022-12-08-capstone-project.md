@@ -49,7 +49,9 @@ tags: [jekyll, ai]
 
 [kaggle連結](https://www.kaggle.com/ulysses1103/parked-detection)
 
-### 成果演示
+### 初次結果
+
+
 ---
 
 ### 參考資料
