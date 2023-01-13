@@ -6,23 +6,16 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-
-
 ---
-
-
-
 
 ### 專題描述
 ---
 
-我們希望藉由YOLO實現停車格空位的辨識<br>
+我們希望藉由yolo實現停車格空位的辨識<br>
 
 ### 訓練資料
 ---
 我們要客製化自己的訓練資料，同時**避免偵測汽車、機車等非預期結果**。理想上是偵測停車格上是否有汽機車佔位。<br>
-
-
 
 **蒐集資料**<br><br>
 首先我們得先準備足夠的訓練資料，拍攝地點選擇國立臺灣海洋大學，找尋適當的角度進行拍攝，接著標註沒一筆數據。<br><br>
@@ -51,7 +44,11 @@ tags: [jekyll, ai]
 
 ### 初次結果
 
+**imperfect outcome**
+
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/bad_outcome.png?raw=true)
+
+結果不理想原因應該在於蒐集資料的角度
 
 ---
 
