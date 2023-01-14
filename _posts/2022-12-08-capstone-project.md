@@ -8,6 +8,12 @@ tags: [jekyll, ai]
 
 ---
 
+<p class="glitch">
+  2077
+  <span>2077</span>
+  <span>2077</span>
+</p>
+
 <p class="message">
   Capstone project
 </p>
