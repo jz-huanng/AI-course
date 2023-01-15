@@ -49,6 +49,11 @@ nc: 2  # number of classes
 names: ['legal', 'illegal']  # class names
 ```
 
+注意!這份檔案存放不在data,而是在上一層
+
+放錯位址:
+![]()
+
 **程式碼的部分**
 
 
