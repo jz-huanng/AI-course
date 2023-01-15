@@ -22,8 +22,6 @@ tags: [jekyll, ai]
 
 **手動添加標籤**<br><br>
 
-
-
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
  
  ```
@@ -49,17 +47,11 @@ nc: 2  # number of classes
 names: ['legal', 'illegal']  # class names
 ```
 
-注意!這份檔案存放不在data,而是在上一層
+注意的是yaml檔的位址應該和train.py同一層資料夾。<br>
 
-放錯位址:
+放錯位址造成的結果:
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/yaml_in_wrong_sdirectory.png?raw=true)
 
-
-
-**程式碼的部分**
-
-
-<br><br><br>
 
 ### 辨識結果
 ---
