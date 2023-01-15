@@ -25,7 +25,10 @@ tags: [jekyll, ai]
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
 
 
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/explain1.png?raw=true)
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/explain1.png?raw=true)<br>
+
+**kaggle的部分**
+ <br>
  
  ```
  git clone https://github.com/jz-huanng/yolov5
