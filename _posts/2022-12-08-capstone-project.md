@@ -18,14 +18,14 @@ tags: [jekyll, ai]
 
 
 **蒐集資料**<br><br>
-首先我們得先準備足夠的訓練資料，拍攝地點選擇國立臺灣海洋大學，找尋適當的角度進行拍攝，接著標註沒一筆數據。<br><br>
 
 **手動添加標籤**<br><br>
 
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
 
+以這張圖為例，可以看到圖中兩台車一台車是停在格子裡，一台車則是隨意停靠路邊。
 ![](https://github.com/jz-huanng/yolov5/blob/master/data/images/train/10.jpg?raw=true)<br>
-
+分別對左邊的貼標籤```legal```以及右邊的```illegal```<br>
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/explain1.png?raw=true)<br>
 
 **kaggle的部分**
