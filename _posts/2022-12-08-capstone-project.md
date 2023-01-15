@@ -24,6 +24,7 @@ tags: [jekyll, ai]
 
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
 
+![](https://github.com/jz-huanng/yolov5/blob/master/data/images/train/10.jpg?raw=true)<br>
 
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/explain1.png?raw=true)<br>
 
