@@ -39,7 +39,7 @@ tags: [jekyll, ai]
 
 ### 辨識結果
 ---
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/batch1_label.png?raw=true)
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/batch1_label.png?raw=true)
 <br>
 
 [kaggle連結](https://www.kaggle.com/ulysses1103/parked-detection)
@@ -48,7 +48,7 @@ tags: [jekyll, ai]
 
 **imperfect outcome**
 
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images/bad_outcome.png?raw=true)
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/bad_outcome.png?raw=true)
 
 結果不理想原因應該在於蒐集資料的角度
 
