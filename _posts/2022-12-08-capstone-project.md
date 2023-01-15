@@ -23,6 +23,9 @@ tags: [jekyll, ai]
 **手動添加標籤**<br><br>
 
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
+
+
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/explain1.png?raw=true)
  
  ```
  git clone https://github.com/jz-huanng/yolov5
@@ -65,7 +68,7 @@ names: ['legal', 'illegal']  # class names
 ### kaggle實作
 ---
 
-[kaggle ](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
+[kaggle:parking detection](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
 
 ### 參考資料
 ---
