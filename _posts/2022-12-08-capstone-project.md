@@ -22,7 +22,7 @@ tags: [jekyll, ai]
 
 **手動添加標籤**<br><br>
 
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/32.png?raw=true)
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/32photos.png?raw=true)
 
 每一次框選都要**框住白色方框**，在依據是否停有車來選擇不同的標籤```empty``` 或 ```parked ```。有些照片中**機車並非出現在白色方框內不應該被標註出來**。<br><br>
 
