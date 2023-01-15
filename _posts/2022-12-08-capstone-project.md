@@ -70,8 +70,9 @@ names: ['legal', 'illegal']  # class names
 
 
 ### kaggle實作
+<br>
 
-[](https://www.kaggle.com/code/ulysses1103/parked-detection)
+[](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
 
 ### 參考資料
 ---
