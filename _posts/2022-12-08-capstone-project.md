@@ -52,7 +52,9 @@ names: ['legal', 'illegal']  # class names
 注意!這份檔案存放不在data,而是在上一層
 
 放錯位址:
-![]()
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/yaml_in_wrong_sdirectory.png?raw=true)
+
+
 
 **程式碼的部分**
 
