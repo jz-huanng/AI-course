@@ -56,7 +56,8 @@ names: ['legal', 'illegal']  # class names
 ### 辨識結果
 ---
 
-
+***train***
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/train.png?raw=true)
 
 
 
