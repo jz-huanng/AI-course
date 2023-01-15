@@ -2,11 +2,11 @@
 layout: post
 title: capstone project
 author: [pride_number_]
-category: [Lecture]
+category: [project]
 tags: [jekyll, ai]
 ---
 
----
+
 
 ### 專題描述
 ---
