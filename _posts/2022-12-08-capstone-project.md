@@ -34,7 +34,7 @@ tags: [jekyll, ai]
  在資料夾data放進images 和 labels
  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/directory.png?raw=true)
 
-**yaml file**
+**custom yaml file**
 
 ```
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
