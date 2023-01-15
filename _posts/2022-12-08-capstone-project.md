@@ -28,6 +28,21 @@ tags: [jekyll, ai]
 
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
 
+**yaml file**
+
+```
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+path: ../images  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['legal', 'illegal']  # class names
+```
+
 ### 模型介紹 using YOLOv5
 ---
 <br><br>
@@ -66,20 +81,8 @@ tags: [jekyll, ai]
 
 >quote
 
->quote
->>and quote in quote
 
 
-### 系統方塊圖
-
-
-
-
-
-
-
-
-## Develop Log
 
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
