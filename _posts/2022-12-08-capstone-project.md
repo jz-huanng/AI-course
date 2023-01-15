@@ -49,10 +49,6 @@ nc: 2  # number of classes
 names: ['legal', 'illegal']  # class names
 ```
 
-### 模型介紹 using YOLOv5
----
-<br><br>
-
 **程式碼的部分**
 
 
@@ -60,8 +56,6 @@ names: ['legal', 'illegal']  # class names
 
 ### 辨識結果
 ---
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/batch1_label.png?raw=true)
-<br>
 
 [kaggle連結](https://www.kaggle.com/ulysses1103/parked-detection)
 
