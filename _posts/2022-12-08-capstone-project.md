@@ -1,7 +1,7 @@
 ---
 layout: post
 title: capstone project
-author: [Charles Huang]
+author: [pride_number_]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
@@ -64,21 +64,14 @@ names: ['legal', 'illegal']  # class names
 ### 辨識結果
 ---
 
-[kaggle連結](https://www.kaggle.com/ulysses1103/parked-detection)
 
-### 初次結果
-
-**imperfect outcome**
-
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/bad_outcome.png?raw=true)
-
-結果不理想原因應該在於蒐集資料的角度
 
 ---
 
 
 ### kaggle實作
-![](https://www.kaggle.com/code/ulysses1103/parked-detection)
+
+[](https://www.kaggle.com/code/ulysses1103/parked-detection)
 
 ### 參考資料
 ---
@@ -94,6 +87,15 @@ names: ['legal', 'illegal']  # class names
 
 
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+### 初次結果
+
+**imperfect outcome**
+
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/bad_outcome.png?raw=true)
+
+結果不理想原因應該在於蒐集資料的角度
 
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
