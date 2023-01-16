@@ -2,6 +2,13 @@
 A concise two-column blog theme for Jekyll.
 
 
+| 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
+| --: | -- | -- | --: | -- |
+| 1/11/23 | 多模态论文串讲·下 |  <img src="imgs/multimodal-2.jpg" width="200px"/> | 1:03:29 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fA411Z772)](https://www.bilibili.com/video/BV1fA411Z772) <br />[![](https://img.shields.io/youtube/views/S1le41J76lQ?style=social)](https://youtu.be/S1le41J76lQ) |
+| 12/29/22 | [Instruct GPT](https://arxiv.org/pdf/2203.02155.pdf) | <img src="imgs/instruct-gpt.jpg" width="200px"/> | 1:07:10 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hd4y187CR)](https://www.bilibili.com/video/BV1hd4y187CR) <br />[![](https://img.shields.io/youtube/views/zfIGAwD1jOQ?style=social)](https://youtu.be/zfIGAwD1jOQ) |
+| 12/19/22 | [Neural Corpus Indexer](https://arxiv.org/pdf/2206.02743.pdf) 文档检索 | <img src="imgs/nci.jpg" width="200px"/> | 55:47 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Se411w7Sn)](https://www.bilibili.com/video/BV1Se411w7Sn) <br />[![](https://img.shields.io/youtube/views/QRffZMSGJyU?style=social)](https://youtu.be/QRffZMSGJyU) |
+
+
 ### mermaid
 
 
