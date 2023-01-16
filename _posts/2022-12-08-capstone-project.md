@@ -74,11 +74,11 @@ epoch 80<br>
 
 
 
-| image num | epoch | results | 时长 | 视频（播放数） |
-| --: | -- | -- | --: | -- |
-| 15 | 100 |  <img src="imgs/multimodal-2.jpg" width="200px"/> | 1:03:29 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fA411Z772)](https://www.bilibili.com/video/BV1fA411Z772) <br />[![](https://img.shields.io/youtube/views/S1le41J76lQ?style=social)](https://youtu.be/S1le41J76lQ) |
-| 15(fine-tuned) | 100 | <img src="imgs/instruct-gpt.jpg" width="200px"/> | 1:07:10 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hd4y187CR)](https://www.bilibili.com/video/BV1hd4y187CR) <br />[![](https://img.shields.io/youtube/views/zfIGAwD1jOQ?style=social)](https://youtu.be/zfIGAwD1jOQ) |
-| 12/19/22 | [Neural Corpus Indexer](https://arxiv.org/pdf/2206.02743.pdf) 文档检索 | <img src="imgs/nci.jpg" width="200px"/> | 55:47 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Se411w7Sn)](https://www.bilibili.com/video/BV1Se411w7Sn) <br />[![](https://img.shields.io/youtube/views/QRffZMSGJyU?style=social)](https://youtu.be/QRffZMSGJyU) |
+| image num | epoch | results | description | 
+| --: | -- | -- | --: | 
+| 15 | 100 |  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true) | labelled wrong | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fA411Z772)](https://www.bilibili.com/video/BV1fA411Z772) <br />[![](https://img.shields.io/youtube/views/S1le41J76lQ?style=social)](https://youtu.be/S1le41J76lQ) |
+| 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true) | labelled imprfect | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hd4y187CR)](https://www.bilibili.com/video/BV1hd4y187CR) <br />[![](https://img.shields.io/youtube/views/zfIGAwD1jOQ?style=social)](https://youtu.be/zfIGAwD1jOQ) |
+
 
 ### kaggle實作
 ---
