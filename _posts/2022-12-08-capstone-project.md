@@ -63,9 +63,8 @@ names: ['legal', 'illegal']  # class names
 
 | image num | epoch | results | description | 
 | --: | -- | -- | --: | 
-| 15 | 100 |  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true) | labelled wrong<br>這些應該被貼上```illegal```而不適```legal``` | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1fA411Z772)](https://www.bilibili.com/video/BV1fA411Z772) <br />[![](https://img.shields.io/youtube/views/S1le41J76lQ?style=social)](https://youtu.be/S1le41J76lQ) |
-| 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true) | labelled imprfect | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hd4y187CR)](https://www.bilibili.com/video/BV1hd4y187CR) <br />[![](https://img.shields.io/youtube/views/zfIGAwD1jOQ?style=social)](https://youtu.be/zfIGAwD1jOQ) |
-
+| 15 | 100 |  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true) | labelled wrong<br>這些應該被貼上```illegal```而不適```legal``` | 
+| 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true) | labelled imprfect 但是不是機器學到方格? | 
 
 ### kaggle實作
 ---
