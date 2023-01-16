@@ -66,6 +66,8 @@ names: ['legal', 'illegal']  # class names
 ***train***
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/train.png?raw=true)
 
+image num:15
+epoch 100
 
 
 
