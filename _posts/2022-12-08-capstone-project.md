@@ -10,6 +10,7 @@ tags: [jekyll, ai]
 ### 專題描述
 ---
 
+[kaggle:parking detection](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
 
 
 ### 訓練資料
@@ -66,10 +67,8 @@ names: ['legal', 'illegal']  # class names
 | 15 | 100 |  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true) | labelled wrong<br>這些應該被貼上```illegal```而不適```legal``` | 
 | 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true)<br>![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/labels2.png?raw=true) | labelled imprfect 但是不是機器學到方格? | 
 
-### kaggle實作
----
 
-[kaggle:parking detection](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
+
 
 ### 參考資料
 ---
