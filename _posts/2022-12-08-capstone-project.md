@@ -21,8 +21,6 @@ tags: [jekyll, ai]
 
 **手動添加標籤**<br><br>
 
-資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
-
 以這張圖為例，可以看到圖中兩台車一台車是停在格子裡，一台車則是隨意停靠路邊。分別對左邊的貼標籤```legal```以及右邊的```illegal```<br>
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/labels.png?raw=true)<br>
 
@@ -51,11 +49,6 @@ test:  # test images (optional)
 nc: 2  # number of classes
 names: ['legal', 'illegal']  # class names
 ```
-
-注意的是yaml檔的位址應該和train.py同一層資料夾。<br>
-
-放錯位址造成的結果:
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/yaml_in_wrong_sdirectory.png?raw=true)
 
 
 ### 辨識結果
