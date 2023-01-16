@@ -60,19 +60,6 @@ names: ['legal', 'illegal']  # class names
 ### 辨識結果
 ---
 
-***train***
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/train.png?raw=true)
-
-image num:15<br>
-epoch 100<br>
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true)
-
-fine-tune<br>
-image num:5<br>
-epoch 80<br>
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true)
-
-
 
 | image num | epoch | results | description | 
 | --: | -- | -- | --: | 
@@ -114,6 +101,18 @@ epoch 80<br>
 
 結果不理想原因應該在於蒐集資料的角度
 
+
+***train***
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/train.png?raw=true)
+
+image num:15<br>
+epoch 100<br>
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true)
+
+fine-tune<br>
+image num:5<br>
+epoch 80<br>
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true)
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
