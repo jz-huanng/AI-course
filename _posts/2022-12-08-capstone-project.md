@@ -68,7 +68,7 @@ names: ['legal', 'illegal']  # class names
 
 image num:15
 epoch 100
-
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true)
 
 
 ### kaggle實作
