@@ -66,9 +66,14 @@ names: ['legal', 'illegal']  # class names
 ***train***
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/train.png?raw=true)
 
-image num:15
-epoch 100
+image num:15<br>
+epoch 100<br>
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true)
+
+fine-tune<br>
+image num:5<br>
+epoch 80<br>
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true)
 
 
 ### kaggle實作
