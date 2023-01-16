@@ -7,19 +7,6 @@ tags: [jekyll, ai]
 ---
 
 
-
-
-<div align="center">
-  <p>
-    <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="850" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
-  </p>
-
-[English](README.md) | [简体中文](README.zh-CN.md)
-<br>
- 
- <div align="left">
-
 ### 專題描述
 ---
 
