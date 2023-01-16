@@ -24,7 +24,7 @@ tags: [jekyll, ai]
 資料標註工具參考[郭子仁老師的網頁](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html)<br><br>
 
 以這張圖為例，可以看到圖中兩台車一台車是停在格子裡，一台車則是隨意停靠路邊。分別對左邊的貼標籤```legal```以及右邊的```illegal```<br>
-![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/labels.png?raw=true)<br>
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/labels.png?raw=true)<br>
 
 **kaggle的部分**
  <br>
