@@ -59,6 +59,8 @@ names: ['legal', 'illegal']  # class names
 | --: | -- | -- | --: | --|
 | 15 | 100 |  ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/num15.png?raw=true) | labelled wrong<br>這些應該被貼上```illegal```而不適```legal``` |version 8 | 
 | 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/fine-tune.png?raw=true)<br>![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/labels2.png?raw=true) | labelled imprfect 但是不是機器學到方格? | version 9| 
+| 15(fine-tuned) | 80 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/no_result.png?raw=true)| 沒有辨識出來 | version 9| 
+| 15(fine-tuned) | 1600 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/160.png?raw=true)| 目前下來唯一一張有辨識到illegal | version 10| 
 
 
 
