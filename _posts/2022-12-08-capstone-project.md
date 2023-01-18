@@ -60,7 +60,7 @@ names: ['legal', 'illegal']  # class names
 | 15(fine-tuned) | 160 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/epoch160.png?raw=true)| 目前下來唯一一張有辨識到illegal | version 10| 
 | 15(fine-tuned) | 160 | ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/epoch160_2.png?raw=true)| 和epoch 80結果一樣 | version 10| 
 |44|80|![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/version11.png?raw=true)||version 11|
-|44|160|||version12(maybe)|
+|44|160|![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/version13.png?raw=true)|幾乎成功!|version13|
 
 
 
