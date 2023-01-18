@@ -13,7 +13,7 @@ tags: [jekyll, ai]
 [kaggle:parking detection](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
 
 
-### 訓練資料
+### 建構自定義資料集
 ---
 
 
@@ -25,6 +25,7 @@ tags: [jekyll, ai]
 ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/labels.png?raw=true)<br>
 
 **kaggle的部分**
+
  <br>
  
  ```
@@ -47,10 +48,20 @@ nc: 2  # number of classes
 names: ['legal', 'illegal']  # class names
 ```
 
-
-### 辨識結果
+### 開始訓練
 ---
 
+run on kaggle<br>
+[kaggle:parking detection](https://www.kaggle.com/code/ulysses1103/parked-detection)<br>
+<br>
+<br>
+
+
+
+### 用測試集驗證模型
+---
+
+#### 版本展示
 
 | image num | epoch | results | description |see results on kaggle |
 | --: | -- | -- | --: | --|
@@ -62,11 +73,16 @@ names: ['legal', 'illegal']  # class names
 |44|80|![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/version11.png?raw=true)||version 11|
 |44|160|![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/parking-detection/version13.png?raw=true)|幾乎成功!|version13|
 
+### 最終成果
+---
+<br>
+To be continued..
 
+### 討論
+
+經過多次的修改與嘗試大概想到**如何練好模型** 
 
 <br>
-
->quote
 
 
 
