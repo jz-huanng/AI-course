@@ -91,12 +91,9 @@ To be continued..
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### ARCHIVE棄存
 ---
-
-在資料夾data放進images 和 labels
- ![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/directory.png?raw=true)
 
 **imperfect outcome**
 
@@ -104,11 +101,6 @@ To be continued..
 
 結果不理想原因應該在於蒐集資料的角度
 
-
-[Image Annotation](https://rkuo2000.github.io/AI-course/lecture/2022/10/13/Object-Detection-Exercises.html
-)<br><br>
-
-[yolov5](https://github.com/ultralytics/yolov5)
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
