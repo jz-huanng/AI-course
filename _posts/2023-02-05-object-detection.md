@@ -91,19 +91,6 @@ SSD把他的挑戰目標放在Faster R-CNN和YOLO v1身上，根據他所設計�
 ![](https://camo.githubusercontent.com/f0c80711512aacc0c1423a64e1036608a773f61c0bb6480ec0d57614ce3e7ccc/68747470733a2f2f696d6775722e636f6d2f3579554a4350562e6a7067)
 
 ---
-### [YOLO- You Only Look Once](https://pjreddie.com/darknet/yolo/)
-**Code:** [pjreddie/darknet](https://github.com/pjreddie/darknet)<br>
-![](https://pyimagesearch.com/wp-content/uploads/2018/11/yolo_design.jpg)
-
-**[YOLOv1](https://arxiv.org/abs/1506.02640)** : mapping bounding box<br>
-![](https://manalelaidouni.github.io/assets/img/pexels/YOLO_arch.png)
-**[YOLOv2](https://arxiv.org/abs/1612.08242)** : anchor box proportional to K-means<br>
-![](https://2.bp.blogspot.com/-_R-w_tWHdzc/WzJPsol7qFI/AAAAAAABbgg/Jsf-AO3qH0A9oiCeU0LQxN-wdirlOz4WgCLcBGAs/s400/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7%2B2018-06-26%2B%25E4%25B8%258B%25E5%258D%258810.36.51.png)
-**[YOLOv3](https://arxiv.org/abs/1804.02767)** : Darknet-53 + FPN<br>
-![](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81216-5/MediaObjects/41598_2021_81216_Fig1_HTML.png)
-![](https://miro.medium.com/max/2000/1*d4Eg17IVJ0L41e7CTWLLSg.png)
-
----
 ### YOLObile
 **Paper:** [arxiv.org/abs/2009.05697](https://arxiv.org/abs/2009.05697)<br>
 **Blog:** [YOLObile：移動設備上的實時目標檢測](https://twgreatdaily.com/zh-hk/jRnp3HQBd8y1i3sJ_wK9.html)<br>
@@ -128,16 +115,8 @@ SSD把他的挑戰目標放在Faster R-CNN和YOLO v1身上，根據他所設計�
 ### YOLOv5
 ![](https://user-images.githubusercontent.com/4210061/107134685-4b249480-692f-11eb-93b1-619708d95441.png)
 **Code:** [ultralytics/yolov5/](https://github.com/ultralytics/yolov5/)<br>
-![](https://user-images.githubusercontent.com/26833433/127574988-6a558aa1-d268-44b9-bf6b-62d4c605cc72.jpg)
-![](https://user-images.githubusercontent.com/26833433/136901921-abcfcd9d-f978-4942-9b97-0e3f202907df.png)
 
----
-### Scaled-YOLOv4
-**Paper:** [arxiv.org/abs/2011.08036](https://arxiv.org/abs/2011.08036)<br>
-![](https://miro.medium.com/max/1838/1*OE4SO1U87DHcAClSZFGlMg.png)
-**Code:** [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)<br>
 
----
 ### YOLOR : You Only Learn One Representation
 **Paper:** [arxiv.org/abs/2105.04206](https://arxiv.org/abs/2105.04206)<br>
 ![](https://github.com/WongKinYiu/yolor/raw/main/figure/unifued_network.png?raw=true)
@@ -152,12 +131,6 @@ SSD把他的挑戰目標放在Faster R-CNN和YOLO v1身上，根據他所設計�
 **Code:** [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)<br>
 ![](https://github.com/Megvii-BaseDetection/YOLOX/blob/main/assets/demo.png?raw=true)
 ![](https://github.com/Megvii-BaseDetection/YOLOX/blob/main/assets/git_fig.png?raw=true)
-
----
-### YOLOv5 vs YOLOX
-**Paper:** [Evaluation of YOLO Models with Sliced Inference for Small Object Detection](https://arxiv.org/abs/2203.04799)<br>
-
-![](https://www.researchgate.net/publication/359129591/figure/tbl2/AS:1131979458248722@1646896342669/AP50-scores-for-each-bounding-boxes-size-wise.png)
 
 ---
 ### CSL-YOLO
