@@ -59,98 +59,9 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 ---
 
 ## image classifaction
----
----
-layout: post
-title: Image Classification
-author: [Richard Kuo]
-category: [Lecture]
-tags: [jekyll, ai]
----
-
-Introduction to Image Classification, including datasets, models, applications, and transfer learning
 
 ---
-## Datasets
 
-### [PASCAL VOC (Visual Ojbect Classes)](http://host.robots.ox.ac.uk/pascal/VOC/)
-VOC2007 train/val/test 9,963張標註圖片，有24,640個標註物件<br> 
-VOC2012 train/val/test11,530張標註圖片，有27,450個ROI 標註物件<br>
-![](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/segexamples/images/006585_object.png)
-![](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/layoutexamples/images/08_parts.jpg)
-**20** classes:
-* Person: person
-* Animal: bird, cat, cow, dog, horse, sheep
-* Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train
-* Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor
-
----
-### [COCO Dataset](https://cocodataset.org/)
-![](https://cocodataset.org/images/coco-examples.jpg)
-* Object segmentation
-* Recognition in context
-* Superpixel stuff segmentation
-* 330K images (>200K labeled)
-* 1.5 million object instances
-* **80** object categories
-* 91 stuff categories
-* 5 captions per image
-* 250,000 people with keypoints
-
----
-### [ImageNet](http://www.image-net.org/)
-![](https://miro.medium.com/max/700/1*IlzW43-NtJrwqtt5Xy3ISA.jpeg)
-This dataset spans **1000 object** classes and contains 1,281,167 training images, 50,000 validation images and 100,000 test images. This subset is available on [Kaggle](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data).
-
----
-### [Open Images V6+](https://storage.googleapis.com/openimages/web/index.html)
-* Blog: [Open Images V6 — Now Featuring Localized Narratives](https://ai.googleblog.com/2020/02/open-images-v6-now-featuring-localized.html)<br>
-* 15,851,536 boxes on **600** categories
-* 2,785,498 instance segmentations on **350** categories
-* 3,284,280 relationship annotations on 1,466 relationships
-* 675,155 localized narratives
-* 59,919,574 image-level labels on 19,957 categories
-* Extension - 478,000 crowdsourced images with 6,000+ categories
-
-[Download](https://storage.googleapis.com/openimages/web/download.html)<br>
-Download and Visualize using [FiftyOne](https://voxel51.com/docs/fiftyone/)<br>
-![](https://storage.googleapis.com/openimages/web/images/fiftyone.png)
-
-As with any other dataset in the [FiftyOne Dataset Zoo](https://voxel51.com/docs/fiftyone/user_guide/dataset_zoo/index.html), downloading it is as easy as calling:<br>
-`dataset = fiftyone.zoo.load_zoo_dataset("open-images-v6", split="validation")`<br>
-
-```
-import fiftyone as fo
-import fiftyone.zoo as foz
-
-# List available zoo datasets
-print(foz.list_zoo_datasets())
-
-#
-# Load the COCO-2017 validation split into a FiftyOne dataset
-#
-# This will download the dataset from the web, if necessary
-#
-dataset = foz.load_zoo_dataset("coco-2017", split="validation")
-
-# Give the dataset a new name, and make it persistent so that you can
-# work with it in future sessions
-dataset.name = "coco-2017-validation-example"
-dataset.persistent = True
-
-# Visualize the in the App
-session = fo.launch_app(dataset)
-```
-
----
-## Applications
-
-### CIFAR-10
-**Dataset:** [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/CIFAR-10.png?raw=true)
-
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.<br>
-**Kaggle:** [https://www.kaggle.com/rkuo2000/cifar10-cnn](https://www.kaggle.com/rkuo2000/cifar10-cnn)<br>
 
 ---
 ### Traffic Sign Classifier (交通號誌辨識)
@@ -234,18 +145,10 @@ The dataset consists of 16,643 images belonging to 11 major food categories:<br>
 **Dataset:** [https://www.kaggle.com/rkuo2000/birds2](https://www.kaggle.com/rkuo2000/birds2)<br>
 ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/birds_dataset.png?raw=true)
 
-用Google搜尋照片, 下載各20/30張照片，放入資料夾birds後，壓縮成birds.zip, 再上傳Kaggle.com/datasets<br>
-
-**Kaggle:** [https://www.kaggle.com/rkuo2000/birds-classification](https://www.kaggle.com/rkuo2000/birds-classification)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/classification_report.png?raw=true)
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/confusion_matrix.png?raw=true)
-
 ---
 ### Animes Classification (卡通人物分類)
 **Dataset:** [https://www.kaggle.com/datasets/rkuo2000/animes](https://www.kaggle.com/datasets/rkuo2000/animes)<br>
 ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/animes_dataset.png?raw=true)
-
-用Google搜尋照片, 下載卡通人物各約20/30張照片，放入資料夾animes後，壓縮成animes.zip, 再上傳Kaggle.com/datasets<br>
 
 **Kaggle:** [https://www.kaggle.com/rkuo2000/anime-classification](https://www.kaggle.com/rkuo2000/anime-classification)<br>
 
