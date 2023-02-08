@@ -223,8 +223,10 @@ title: Object Detection
 **Code:** [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)<br>
 ![](https://github.com/WongKinYiu/yolov7/raw/main/figure/performance.png)
 
+
+## practical use
 ---
-## Trash Detection
+### Trash Detection
 ### Localize and Classify Wastes on the Streets
 **Paper:** [arxiv.org/abs/1710.11374](https://arxiv.org/abs/1710.11374)<br>
 **Model:** GoogLeNet<br>
