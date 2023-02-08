@@ -22,17 +22,8 @@ title: Object Detection
 
 ---
 ### R-CNN
-**Paper:** [arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)<br>
-![](https://miro.medium.com/max/700/1*REPHY47zAyzgbNKC6zlvBQ.png)
-
 ### Fast R-CNN
-**Paper:** [arxiv.org/abs/1504.08083](https://arxiv.org/abs/1504.08083)<br>
-**Github:** [faster-rcnn](https://github.com/rbgirshick/fast-rcnn)<br>
-
----
 ### Faster R-CNN
-**Paper:** [arxiv.org/abs/1506.01497](https://arxiv.org/abs/1506.01497)<br>
-**Github:** [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn), [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 ![](https://miro.medium.com/max/842/1*ndYVI-YCEGCoyRst1ytHjA.png)
 
 ### Mask R-CNN
@@ -42,10 +33,12 @@ title: Object Detection
 **Blog:** [[物件偵測] S9: Mask R-CNN 簡介](https://ivan-eng-murmur.medium.com/%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-s9-mask-r-cnn-%E7%B0%A1%E4%BB%8B-99370c98de28)<br>
 ![](https://miro.medium.com/max/1400/0*IDBowO6956w5RGVw)
 ![](https://miro.medium.com/max/2000/0*RTcInnhfoh0m9ItI)
+<table><tr><td><img src="https://github.com/matterport/Mask_RCNN/blob/master/assets/street.png?raw=true"></td>
+  <td><img src="https://github.com/matterport/Mask_RCNN/blob/master/assets/images_to_osm.png?raw=true"></td>
+  <td><img src="https://github.com/matterport/Mask_RCNN/blob/master/assets/nucleus_segmentation.png?raw=true"></td>
+  </tr></table>
 **Code:** [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)<br>
-![](https://github.com/matterport/Mask_RCNN/blob/master/assets/street.png?raw=true)
-![](https://github.com/matterport/Mask_RCNN/blob/master/assets/images_to_osm.png?raw=true)
-![](https://github.com/matterport/Mask_RCNN/blob/master/assets/nucleus_segmentation.png?raw=true)
+
 
 ---
 ### SSD: Single Shot MultiBox Detector
