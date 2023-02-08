@@ -43,6 +43,8 @@ title: Object Detection
 **Code:** [pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)<br>
 使用神經網絡（VGG-16）提取feature map後進行分類和回歸來檢測目標物體。
 ![](https://miro.medium.com/max/700/1*51joMGlhxvftTxGtA4lA7Q.png)
+SSD把他的挑戰目標放在Faster R-CNN和YOLO v1身上，根據他所設計的整個網路架構，算是突破兩這兩個模型的缺點，在PASCAL VOC 2007資料集上，輸入影像為300×300的SSD (SSD300)可以達到的74.3的mAP與46FPS的偵測速度表現。One-stage模型能有這樣的表現確實是讓大家驚豔。雖然SSD並沒有提出甚麼太驚人的演算法進展，但是我認為他的**精度提升的最大原因是採用了多尺度的feature map進行辨識**，搭配上為數不一的**default box**配置，讓整個網路所產生的候選框數量相比其他網路都要多，也就多了很多可能性。
+
 
 ---
 ### RetinaNet
