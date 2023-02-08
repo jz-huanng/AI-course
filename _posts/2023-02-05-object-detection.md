@@ -9,8 +9,6 @@ title: Object Detection
 ---
 
 ## Object Detection
-
----
 ### R-CNN, Fast R-CNN, Faster R-CNN
 **Blog:** [目標檢測](https://www.twblogs.net/a/5cb52483bd9eee0f00a1ad24)
 
@@ -20,7 +18,7 @@ title: Object Detection
   </tr></table>
 
 * **R-CNN**首先使用**Selective search**提取region proposals（候選框）；然後用Deep Net（Conv layers）進行**特徵提取**；最後對候選框類別分別採用**SVM**進行**類別分類**，採用**迴歸**對bounding box進行**調整**。其中每一步都是獨立的。
-* **Fast R-CNN**在R-CNN的基礎上，提出了多任務損失(Multi-task Loss), 將分類和bounding box迴歸作爲一個整體任務進行學習；另外，通過**ROI Projection**可以將Selective Search提取出的ROI區域（即：候選框Region Proposals）映射到原始圖像對應的Feature Map上，減少了計算量和存儲量，極大的提高了訓練速度和測試速度。
+* **Fast R-CNN**在R-CNN的基礎上，提出了多任務損失(Multi-task Loss), 將分類和bounding box迴歸作爲一個整體任務進行學習；另外，通過**ROI Projection**可以將Selective Search提取出的ROI區域（即：候選框Region Proposals）映射到原始圖像對應的Feature Map上，減少了計算量和存儲量，極大的提高了訓練速度和測試速度。改變ROI sampling的邏輯，讓原本要重複運作2000次的特徵提取，變成只**對原始影像做一次特徵提取**，而讓原圖上的region proposals映射到feature maps上做sampling。**ROI pooling層統一ROI送進FC層的維度**。
 * **Faster R-CNN**則是在Fast R-CNN的基礎上，提出了**RPN網絡用來生成Region Proposals**。通過網絡共享將提取候選框與目標檢測結合成一個整體進行訓練，替換了Fast R-CNN中使用Selective Search進行提取候選框的方法，提高了測試過程的速度。
 * **Mask R-CNN**
 
