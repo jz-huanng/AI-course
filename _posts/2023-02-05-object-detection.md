@@ -39,21 +39,9 @@ title: Object Detection
 ### SSD: Single Shot MultiBox Detector
 **Paper:** [arxiv.org/abs/1512.02325](https://arxiv.org/abs/1512.02325)<br>
 **Blog:** [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)<br>
-![](https://miro.medium.com/max/700/1*JuhjYUWXgfxMMoa4SIKLkA.png)
+**Code:** [pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)<br>
 使用神經網絡（VGG-16）提取feature map後進行分類和回歸來檢測目標物體。
 ![](https://miro.medium.com/max/700/1*51joMGlhxvftTxGtA4lA7Q.png)
-![](https://miro.medium.com/max/480/1*IZf0wajQ75DPsoBkWjwlsA.gif)
-**Code:** [pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)<br>
-<table>
-<tr>
-<td><img src="https://github.com/pierluigiferrari/ssd_keras/blob/master/examples/trained_ssd300_pascalVOC2007_test_pred_05_no_gt.png?raw=true"></td>
-<td><img src="https://github.com/pierluigiferrari/ssd_keras/blob/master/examples/trained_ssd300_pascalVOC2007_test_pred_04_no_gt.png?raw=true"></td>
-</tr>
-<tr>
-<td><img src="https://github.com/pierluigiferrari/ssd_keras/blob/master/examples/trained_ssd300_pascalVOC2007_test_pred_01_no_gt.png?raw=true"></td>
-<td><img src="https://github.com/pierluigiferrari/ssd_keras/blob/master/examples/ssd7_udacity_traffic_pred_02.png?raw=true"></td>
-</tr>
-</table>
 
 ---
 ### RetinaNet
