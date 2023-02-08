@@ -24,13 +24,10 @@ title: Object Detection
 ### R-CNN
 **Paper:** [arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)<br>
 ![](https://miro.medium.com/max/700/1*REPHY47zAyzgbNKC6zlvBQ.png)
-![](https://miro.medium.com/max/500/1*E-8oQW8ZO-hHgTf6laWhhQ.png)
 
----
 ### Fast R-CNN
 **Paper:** [arxiv.org/abs/1504.08083](https://arxiv.org/abs/1504.08083)<br>
 **Github:** [faster-rcnn](https://github.com/rbgirshick/fast-rcnn)<br>
-![](https://miro.medium.com/max/700/1*0pMP3aY8blSpva5tvWbnKA.png)
 
 ---
 ### Faster R-CNN
@@ -38,18 +35,6 @@ title: Object Detection
 **Github:** [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn), [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 ![](https://miro.medium.com/max/842/1*ndYVI-YCEGCoyRst1ytHjA.png)
 
----
-**Blog:** [[物件偵測] S3: Faster R-CNN 簡介](https://ivan-eng-murmur.medium.com/object-detection-s3-faster-rcnn-%E7%B0%A1%E4%BB%8B-5f37b13ccdd2)<br />
-* RPN是一個要提出proposals的小model，而這個小model需要我們先訂出不同尺度、比例的proposal的邊界匡的雛形。而這些雛形就叫做anchor。
-
-<p align="center"><img width="50%" height="50%" src="https://miro.medium.com/max/700/1*X36ZRFab42L4Rwn22j8d6Q.png"></p>
-![](https://miro.medium.com/max/2000/1*ddngAD0M9ovnPcg9YaZu9g.png)
-
-* RPN的上路是負責判斷anchor之中有無包含物體的機率，因此，1×1的卷積深度就是9種anchor，乘上有無2種情況，得18。而下路則是負責判斷anchor的x, y, w, h與ground truth的偏差量(offsets)，因此9種anchor，乘上4個偏差量(dx, dy, dw, dh)，得卷積深度為36。
-
-![](https://miro.medium.com/max/1400/1*Fg7DVdvF449PfX5Fd6oOYA.png)
-
----
 ### Mask R-CNN
 **Paper:** [arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)<br>
 ![](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-23_at_7.44.34_PM.png)
