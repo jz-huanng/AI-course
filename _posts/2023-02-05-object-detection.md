@@ -10,7 +10,8 @@ title: Object Detection
 
 ## Object Detection
 ### R-CNN, Fast R-CNN, Faster R-CNN
-**Blog:** [目標檢測](https://www.twblogs.net/a/5cb52483bd9eee0f00a1ad24)
+**Blog:** [目標檢測](https://www.twblogs.net/a/5cb52483bd9eee0f00a1ad24)<br>
+**Bog!:** [目標檢測](https://ivan-eng-murmur.medium.com/)
 
 <table><tr>
   <td><img src="https://pic1.xuehuaimg.com/proxy/csdn/https://img-blog.csdnimg.cn/20190415130546284.png?raw=true"></td>
