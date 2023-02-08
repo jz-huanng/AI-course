@@ -8,16 +8,8 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 
 ---
 ## Convolutional Neural Network (CNN)
-### softmax
-![](https://i.stack.imgur.com/0rewJ.png)
-![](https://miro.medium.com/max/875/1*KvygqiInUpBzpknb-KVKJw.jpeg)
 
-
-**Kaggle:** [https://www.kaggle.com/rkuo2000/mnist-cnn](https://www.kaggle.com/rkuo2000/mnist-cnn)<br>
-[mnist_cnn.py](https://github.com/rkuo2000/tf/blob/master/mnist_cnn.py)<br>
-
----
-## [CNN architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
+### [CNN architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
 
 * LeNet-5 (1998) [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 ![](https://miro.medium.com/max/700/1*aQA7LuLJ2YfozSJa0pAO2Q.png)
@@ -56,14 +48,9 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 ![](https://1.bp.blogspot.com/-DjZT_TLYZok/XO3BYqpxCJI/AAAAAAAAEKM/BvV53klXaTUuQHCkOXZZGywRMdU9v9T_wCLcBGAs/s640/image2.png)
 
 
----
 
 ## image classifaction
 
----
-
-
----
 ### Traffic Sign Classifier (交通號誌辨識)
 **Dataset:** [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/gtsrb_news.html)<br>
 ![](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61e9ce225148f6519be6c034_GTSRB-0000000633-9ce3c5f6_Dki5Rsf.jpeg)
@@ -71,7 +58,6 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 34 traffic signs, 39209 training images, 12630 test images<br>
 **Kaggle:** [https://www.kaggle.com/rkuo2000/gtsrb-cnn](https://www.kaggle.com/rkuo2000/gtsrb-cnn)<br>
 
----
 ### Emotion Detection (情緒偵測)
 **Dataset:** [FER-2013 (Facial Expression Recognition)](https://www.kaggle.com/datasets/msambare/fer2013)<br>
 ![](https://production-media.paperswithcode.com/datasets/FER2013-0000001434-01251bb8_415HDzL.jpg)
@@ -80,23 +66,6 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 labels = ["angry", "disgusted", "fearful", "happy", "neutral", "sad", "surprised"]<br>
 **Kaggle:** [https://www.kaggle.com/rkuo2000/fer2013-cnn](https://www.kaggle.com/rkuo2000/fer2013-cnn)<br>
 
----
-### Pneumonia Detection (肺炎偵測)
-**Dataset:** [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)<br>
-![](https://raw.githubusercontent.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning/master/demo/sample/sample.png)
-
-**Kaggle:** [https://www.kaggle.com/rkuo2000/pneumonia-cnn](https://www.kaggle.com/rkuo2000/pneumonia-cnn)<br>
-
----
-### COVID19 Detection (新冠肺炎偵測)
-**Dataset:** [https://www.kaggle.com/bachrr/covid-chest-xray](https://www.kaggle.com/bachrr/covid-chest-xray)<br>
-![](https://i.imgur.com/jZqpV51.png)
-
-**Kaggle:**<br>
-* [https://www.kaggle.com/rkuo2000/covid19-vgg16](https://www.kaggle.com/rkuo2000/covid19-vgg16)
-* [https://www.kaggle.com/rkuo2000/skin-lesion-cnn](https://www.kaggle.com/rkuo2000/skin-lesion-cnn)
-
----
 ### FaceMask Classification (人臉口罩辨識)
 **Dataset:** [Face Mask ~12K Images dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset)<br>
 ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/facemask_12k_dataset.png?raw=true)
@@ -112,7 +81,6 @@ labels = ["angry", "disgusted", "fearful", "happy", "neutral", "sad", "surprised
 
 **Kaggle:** [https://www.kaggle.com/rkuo2000/garbage-cnn](https://www.kaggle.com/rkuo2000/garbage-cnn)<br>
 
----
 ### Food Classification  (食物分類)
 **Dataset:** [Food-11](https://mmspg.epfl.ch/downloads/food-image-datasets/)<br>
 ![](https://929687.smushcdn.com/2633864/wp-content/uploads/2019/06/fine_tuning_keras_food11.jpg?lossy=1&strip=1&webp=1)
@@ -132,36 +100,8 @@ The dataset consists of 16,643 images belonging to 11 major food categories:<br>
 **Kaggle:** [https://www.kaggle.com/rkuo2000/food11-classification](https://www.kaggle.com/rkuo2000/food11-classification)<br>
 
 ---
-### Mango Classification (芒果分類)
-**Dataset:** [台灣高經濟作物 - 愛文芒果影像辨識正式賽](https://aidea-web.tw/aicup_mango)<br>
-**Kaggle:** <br>
-* [https://www.kaggle.com/rkuo2000/mango-classification](https://www.kaggle.com/rkuo2000/mango-classification)
-* [https://www.kaggle.com/rkuo2000/mango-efficientnet](https://www.kaggle.com/rkuo2000/mango-efficientnet)
 
----
-## Transer Learning
 
-### Birds Classification (鳥類分類)
-**Dataset:** [https://www.kaggle.com/rkuo2000/birds2](https://www.kaggle.com/rkuo2000/birds2)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/birds_dataset.png?raw=true)
-
----
-### Animes Classification (卡通人物分類)
-**Dataset:** [https://www.kaggle.com/datasets/rkuo2000/animes](https://www.kaggle.com/datasets/rkuo2000/animes)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/animes_dataset.png?raw=true)
-
-**Kaggle:** [https://www.kaggle.com/rkuo2000/anime-classification](https://www.kaggle.com/rkuo2000/anime-classification)<br>
-
----
-### Worms Classification(害蟲分類)
-**Dataset:** [worms4](https://www.kaggle.com/datasets/rkuo2000/worms4)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/worms4_dataset.png?raw=true)
-
-用Google搜尋照片, 下載各20/30張照片，放入資料夾worms後，壓縮成worms.zip, 再上傳Kaggle.com/datasets<br>
-
-**Kaggle:** [https://www.kaggle.com/rkuo2000/worms-classification](https://www.kaggle.com/rkuo2000/worms-classification)<br>
-
----
 ### Railway Track Fault Detection (鐵軌故障偵測)
 **Dataset:** [Railway Track Fault Detection](https://www.kaggle.com/salmaneunus/railway-track-fault-detection)<br>
 **Kaggle:** [https://www.kaggle.com/code/rkuo2000/railtrack-resnet50v2](https://www.kaggle.com/code/rkuo2000/railtrack-resnet50v2)<br>
@@ -199,19 +139,7 @@ model = models.Model(inputs=base_model.input, outputs=out)
 model.summary()
 ```
 
----
-### Skin Lesion Classification (皮膚病變分類)
-**Dataset:*8 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/ham10000_dataset.png?raw=true)
 
-7 types of lesions : (picture = 600x450)<br>
-* Actinic Keratoses (光化角化病)
-* Basal Cell Carcinoma (基底細胞癌)
-* Benign Keratosis (良性角化病)
-* Dermatofibroma (皮膚纖維瘤)
-* Malignant Melanoma (惡性黑色素瘤)
-* Melanocytic Nevi (黑素細胞痣)
-* Vascular Lesions (血管病變)
 <br>
 **Kaggle:** [https://www.kaggle.com/code/rkuo2000/skin-lesion-classification](https://www.kaggle.com/code/rkuo2000/skin-lesion-classification)<br>
 
@@ -244,6 +172,54 @@ base_model = efn.EfficientNetB7(input_shape=(224,224,3), weights='imagenet', inc
 
 
 ---
+
+## More Image Classafiation(生醫)
+
+### Pneumonia Detection (肺炎偵測)
+**Dataset:** [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)<br>
+![](https://raw.githubusercontent.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning/master/demo/sample/sample.png)
+
+**Kaggle:** [https://www.kaggle.com/rkuo2000/pneumonia-cnn](https://www.kaggle.com/rkuo2000/pneumonia-cnn)<br>
+
+### COVID19 Detection (新冠肺炎偵測)
+**Dataset:** [https://www.kaggle.com/bachrr/covid-chest-xray](https://www.kaggle.com/bachrr/covid-chest-xray)<br>
+![](https://i.imgur.com/jZqpV51.png)
+
+**Kaggle:**<br>
+* [https://www.kaggle.com/rkuo2000/covid19-vgg16](https://www.kaggle.com/rkuo2000/covid19-vgg16)
+* [https://www.kaggle.com/rkuo2000/skin-lesion-cnn](https://www.kaggle.com/rkuo2000/skin-lesion-cnn)
+
+### Skin Lesion Classification (皮膚病變分類)
+**Dataset:*8 [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)<br>
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/ham10000_dataset.png?raw=true)
+
+7 types of lesions : (picture = 600x450)<br>
+* Actinic Keratoses (光化角化病)
+* Basal Cell Carcinoma (基底細胞癌)
+* Benign Keratosis (良性角化病)
+* Dermatofibroma (皮膚纖維瘤)
+* Malignant Melanoma (惡性黑色素瘤)
+* Melanocytic Nevi (黑素細胞痣)
+* Vascular Lesions (血管病變)
+
+## more Image Classifation
+### Mango Classification (芒果分類)
+**Dataset:** [台灣高經濟作物 - 愛文芒果影像辨識正式賽](https://aidea-web.tw/aicup_mango)<br>
+**Kaggle:** <br>
+* [https://www.kaggle.com/rkuo2000/mango-classification](https://www.kaggle.com/rkuo2000/mango-classification)
+* [https://www.kaggle.com/rkuo2000/mango-efficientnet](https://www.kaggle.com/rkuo2000/mango-efficientnet)
+### Birds Classification (鳥類分類)
+**Dataset:** [https://www.kaggle.com/rkuo2000/birds2](https://www.kaggle.com/rkuo2000/birds2)<br>
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/birds_dataset.png?raw=true)
+### Animes Classification (卡通人物分類)
+**Dataset:** [https://www.kaggle.com/datasets/rkuo2000/animes](https://www.kaggle.com/datasets/rkuo2000/animes)<br>
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/animes_dataset.png?raw=true)
+**Kaggle:** [https://www.kaggle.com/rkuo2000/anime-classification](https://www.kaggle.com/rkuo2000/anime-classification)<br>
+### Worms Classification(害蟲分類)
+**Dataset:** [worms4](https://www.kaggle.com/datasets/rkuo2000/worms4)<br>
+![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/worms4_dataset.png?raw=true)
+用Google搜尋照片, 下載各20/30張照片，放入資料夾worms後，壓縮成worms.zip, 再上傳Kaggle.com/datasets<br>
+**Kaggle:** [https://www.kaggle.com/rkuo2000/worms-classification](https://www.kaggle.com/rkuo2000/worms-classification)<br>
 
 ## Archive
 
