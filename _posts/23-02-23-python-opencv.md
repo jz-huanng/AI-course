@@ -91,19 +91,6 @@ cv2.imshow('Sobel', grad)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-
----
-### [Fourier Transform](https://docs.opencv.org/4.6.0/de/dbc/tutorial_py_fourier_transform.html)
-[~/cv2/jpg_fft.py](https://github.com/rkuo2000/cv2/blob/master/jpg_fft.py)
-![](https://docs.opencv.org/4.6.0/fft1.jpg)
-
-[~/cv2/jpg_dft.py](https://github.com/rkuo2000/cv2/blob/master/jpg_dft.py)
-![](https://docs.opencv.org/4.6.0/fft4.jpg)
-
-* Why Laplacian/Sobel is a High Pass Filter?
-![](https://docs.opencv.org/4.6.0/fft5.jpg)
-From image, you can see what frequency region each kernel blocks, and what region it passes. From that information, we can say why each kernel is a HPF or a LPF
-
 ---
 ### [Spatial Frequency Filtering](https://www.djmannion.net/psych_programming/vision/sf_filt/sf_filt.html)
 * UNSW 
