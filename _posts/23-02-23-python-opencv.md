@@ -11,46 +11,8 @@ tags: [jekyll, ai]
 OpenCV Image Processing in Python
 
 ---
-
----
 ## Python OpenCV
 
----
-### Object Tracking by Color
-[~/cv2/cam_object_tracking.py](https://github.com/rkuo2000/cv2/blob/master/cam_object_tracking.py)<br>
-
-```
-import cv2
-import numpy as np
-
-cap = cv2.VideoCapture(0)
-
-while(1):
-    # Take each frame
-    _, frame = cap.read()
-
-    # Convert BGR to HSV
-    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
-
-    # define range of blue color in HSV
-    lower_blue = np.array([110,50,50])
-    upper_blue = np.array([130,255,255])
-	
-    # Threshold the HSV image to get only blue colors
-    mask = cv2.inRange(hsv, lower_blue, upper_blue)
-	
-    # Bitwise-AND mask and original image
-    res = cv2.bitwise_and(frame, frame, mask=mask)
-	
-    cv2.imshow('FRAME', frame)
-    cv2.imshow('MASK', mask)
-    cv2.imshow('RESULT', res)
-    k = cv2.waitKey(5) & 0xFF
-    if k==27:
-        break
-	
-cv2.destroyAllWindows()
-```
 ### [Skin Isolation](https://nalinc.github.io/blog/2018/skin-detection-python-opencv/)
 [~/cv2/cam_skin_detection.py](https://github.com/rkuo2000/cv2/blob/master/cam_skin_detection.py)<br>
 [~/cv2/jpg_skin_detection.py](https://github.com/rkuo2000/cv2/blob/master/jpg_skin_detection.py)<br>
@@ -187,20 +149,6 @@ From image, you can see what frequency region each kernel blocks, and what regio
 ![](https://www.djmannion.net/psych_programming/_images/sf_a8.png)
 * Other spatial frequency filters
 ![](https://www.djmannion.net/psych_programming/_images/sf_a9.png)
-
----
-### [Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html) <br>
-1. Noise Reduction : To remove the noise in the image with a 5x5 Gaussian filter. 
-2. Finding Intensity Gradient of the Image
-   ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/OpenCV_Canny_finding_intensity_gradient.png?raw=true)
-3. Non-maximum Suppression
-   ![](https://docs.opencv.org/4.x/nms.jpg)
-4. Hysteresis Thresholding
-   ![](https://docs.opencv.org/4.x/hysteresis.jpg)
-[邊緣偵測懶人包-Canny演算法](https://medium.com/@bob800530/opencv-%E5%AF%A6%E4%BD%9C%E9%82%8A%E7%B7%A3%E5%81%B5%E6%B8%AC-canny%E6%BC%94%E7%AE%97%E6%B3%95-d6e0b92c0aa3)<br>
-
-[~/cv2/jpg_canny.py](https://github.com/rkuo2000/cv2/blob/master/jpg_canny.py)
-![](https://docs.opencv.org/4.x/canny1.jpg)
 
 ---
 ### [Hough Line Transform](https://docs.opencv.org/4.6.0/d9/db0/tutorial_hough_lines.html)
