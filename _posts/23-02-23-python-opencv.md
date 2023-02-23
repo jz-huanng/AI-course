@@ -13,27 +13,7 @@ OpenCV Image Processing in Python
 ---
 ## Python OpenCV
 
-### [Skin Isolation](https://nalinc.github.io/blog/2018/skin-detection-python-opencv/)
-[~/cv2/cam_skin_detection.py](https://github.com/rkuo2000/cv2/blob/master/cam_skin_detection.py)<br>
-[~/cv2/jpg_skin_detection.py](https://github.com/rkuo2000/cv2/blob/master/jpg_skin_detection.py)<br>
-![](https://nalinc.github.io/assets/img/skin-detection/hsv.png)
 
----
-### [Image Thresholding](https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html)
-
-* **Simple Thresholding**: [~/cv2/jpg_image_thresholding.py](https://github.com/rkuo2000/cv2/blob/master/jpg_image_thresholding.py)
-![](https://docs.opencv.org/4.x/threshold.jpg)
-  - cv2.THRESH_BINARY
-  - cv2.THRESH_BINARY_INV
-  - cv2.THRESH_TRUNC
-  - cv2.THRESH_TOZERO
-  - cv2.THRESH_TOZERO_INV
-  
-* **Adaptive Thresholding**: [~/cv2/jpg_adaptive_thresholding.py](https://github.com/rkuo2000/cv2/blob/master/jpg_adaptive_thresholding.py)
-![](https://docs.opencv.org/4.x/ada_threshold.jpg)
-
-* **Otsu’s Binarization**: [~/cv2/jpg_otsu_binarization.py](https://github.com/rkuo2000/cv2/blob/master/jpg_otsu_binarization.py)
-![](https://docs.opencv.org/4.x/otsu.jpg)
 
 ---
 ## [Image Processing Tutorial](https://docs.opencv.org/4.6.0/d7/da8/tutorial_table_of_content_imgproc.html)
@@ -83,17 +63,6 @@ for i in range(8):
     plt.xticks([]),plt.yticks([])
 plt.show()
 ```
-
----
-### [Geometric Transformation](https://docs.opencv.org/4.6.0/dd/d52/tutorial_js_geometric_transformations.html)
-* Scaling (Resize): [jpg_resize.py](https://github.com/rkuo2000/cv2/blob/master/jpg_resize.py)
-* Rotation : [jpg_rotation.py](https://github.com/rkuo2000/cv2/blob/master/jpg_rotation.py)
-* Affine Transform: [jpg_affine_transformation.py](https://github.com/rkuo2000/cv2/blob/master/jpg_affine_transformation.py)
-  ![](https://pic1.xuehuaimg.com/proxy/csdn/https://img-blog.csdn.net/20180814101638244?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3podV9ob25namk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-* Perspective Transform [jpg_perspective_transformation.py](https://github.com/rkuo2000/cv2/blob/master/jpg_perspective_transformation.py)
-  ![](https://pic1.xuehuaimg.com/proxy/csdn/https://img-blog.csdn.net/20180814101302480?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3podV9ob25namk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
-Reference: [OpenCV學習筆記】之仿射變換（Affine Transformation）](https://www.twblogs.net/a/5b7b00e42b7177539c24a869)<br>
 
 ---
 ### [Image Gradients](https://docs.opencv.org/4.6.0/d5/d0f/tutorial_py_gradients.html)
