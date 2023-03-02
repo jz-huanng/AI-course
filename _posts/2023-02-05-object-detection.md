@@ -98,39 +98,7 @@ SSD把他的挑戰目標放在Faster R-CNN和YOLO v1身上，根據他所設計�
 **Code:** [nightsnack/YOLObile](https://github.com/nightsnack/YOLObile)<br>
 ![](https://github.com/nightsnack/YOLObile/raw/master/figure/yolo_demo.jpg)
 
----
-### YOLOv4
-**Paper:** [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)<br>
-* YOLOv4 = YOLOv3 + CSPDarknet53 + SPP + PAN + BoF + BoS<br>
-![](https://www.researchgate.net/profile/Jishu-Miao/publication/349381918/figure/fig4/AS:994706955722753@1614168027527/Normal-YOLOv4-network-architecture.ppm)
-* CSP
-![](https://blog.roboflow.com/content/images/2020/06/image-15.png)
-* PANet
-![](https://blog.roboflow.com/content/images/2020/06/image-17.png)
 
-**Code:** [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)<br>
-**Code:** [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)<br>
-
----
-### YOLOv5
-![](https://user-images.githubusercontent.com/4210061/107134685-4b249480-692f-11eb-93b1-619708d95441.png)
-**Code:** [ultralytics/yolov5/](https://github.com/ultralytics/yolov5/)<br>
-
-
-### YOLOR : You Only Learn One Representation
-**Paper:** [arxiv.org/abs/2105.04206](https://arxiv.org/abs/2105.04206)<br>
-![](https://github.com/WongKinYiu/yolor/raw/main/figure/unifued_network.png?raw=true)
-**Code:** [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor)<br>
-![](https://github.com/WongKinYiu/yolor/blob/main/inference/output/horses.jpg?raw=true)
-![](https://github.com/WongKinYiu/yolor/raw/main/figure/performance.png?raw=true)
-
----
-### YOLOX
-**Paper:** [arxiv.org/abs/2107.08430](https://arxiv.org/abs/2107.08430)<br>
-![](https://miro.medium.com/max/915/1*ihnRFgPMgatEtrlTtOM2Bg.png)
-**Code:** [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)<br>
-![](https://github.com/Megvii-BaseDetection/YOLOX/blob/main/assets/demo.png?raw=true)
-![](https://github.com/Megvii-BaseDetection/YOLOX/blob/main/assets/git_fig.png?raw=true)
 
 ---
 ### CSL-YOLO
