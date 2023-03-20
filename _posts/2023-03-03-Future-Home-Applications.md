@@ -14,5 +14,5 @@
 可以避免需要發動機車才可以知道加油狀況。<br>
 在下次使用機車前提早通知使用者需要加油。<br>
 ### 系統方塊圖
+![](https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/iot-homework.PNG?raw=true)
 
-https://github.com/jz-huanng/AI-course/blob/gh-pages/images2/iot-homework.PNG
