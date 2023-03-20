@@ -9,44 +9,6 @@ Convolutional Neural Network (CNN) includes an Overview, Examples, and Architect
 ---
 ## Convolutional Neural Network (CNN)
 
-### [CNN architectures](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)
-
-* LeNet-5 (1998) [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
-![](https://miro.medium.com/max/700/1*aQA7LuLJ2YfozSJa0pAO2Q.png)
-
-* AlexNet (2012) [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-![](https://miro.medium.com/max/700/1*2DT1bjmvC-U-lrL7tpj6wg.png)
-
-* VGG-16 (2014)
-![](https://miro.medium.com/max/700/1*_vGloND6yyxFeFH5UyCDVg.png)
-
-* Inception-v1 (2014)
-![](https://miro.medium.com/max/700/1*KnTe9YGNopUMiRjlEr3b8w.png)
-
-* Inception-v3 (2015)
-![](https://miro.medium.com/max/700/1*ooVUXW6BIcoRdsF7kzkMwQ.png)
-
-* ResNet-50 (2015)
-![](https://miro.medium.com/max/700/1*zbDxCB-0QDAc4oUGVtg3xw.png)
-
-* Xception (2016)
-![](https://miro.medium.com/max/700/1*NNsznNjzULwqvSER8k5eDg.png)
-
-* Inception-v4 (2016)
-![](https://miro.medium.com/max/700/1*15sIUNOxqVyDPmGGqefyVw.png)
-
-* Inception-ResNets (2016)
-![](https://miro.medium.com/max/700/1*xpb6QFQ4IknSmxmgai8w-Q.png)
-
-* DenseNet (2016)
-![](https://miro.medium.com/max/1302/1*Cv2IqVWmiakP_boAJODKig.png)
-
-* ResNeXt-50 (2017)
-![](https://miro.medium.com/max/700/1*HelCJiQZEuwuKakRwDdGPw.png)
-
-* EfficientNet (2019)
-![](https://1.bp.blogspot.com/-DjZT_TLYZok/XO3BYqpxCJI/AAAAAAAAEKM/BvV53klXaTUuQHCkOXZZGywRMdU9v9T_wCLcBGAs/s640/image2.png)
-
 
 
 ## image classifaction
