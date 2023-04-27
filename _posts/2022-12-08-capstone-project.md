@@ -7,6 +7,18 @@ tags: [jekyll, ai]
 ---
 
 
+
+
+
+# UNDER CONSTRUCTION..
+<br><br><br><br><br><br>
+### method
+- classifacation or object detection?
+- opencv module or neural network models(yolo)?
+- view:aerial or walker?
+<br><br><br><br><br><br>
+
+---
 ### 專題描述
 ---
 
