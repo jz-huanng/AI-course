@@ -16,7 +16,14 @@ tags: [jekyll, ai]
 - classifacation or object detection?
 - opencv module or neural network models(yolo)?
 - view:aerial or walker?
+
+### something new!
+- pytorch detectron
+- Meta SAM
+- RT-DETR
 <br><br><br><br><br><br>
+
+
 
 ---
 ### 專題描述
